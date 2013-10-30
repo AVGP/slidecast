@@ -1,0 +1,14 @@
+{
+  "name": "Slidecast",
+  "description": "Peanut butter jelly time",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["js/slidecast.js"]
+    }
+  },
+  "permissions": [
+    "fileSystem"
+  ]
+}
